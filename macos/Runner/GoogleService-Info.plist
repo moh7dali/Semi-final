@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1072217117210-fr5oh9gg8smf9statn04htgftjcj3ft4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1072217117210-fr5oh9gg8smf9statn04htgftjcj3ft4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAT9cWrxMz59aO4RCyCegTpVERUjaAjWls</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1072217117210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.citycafeApp</string>
+	<key>PROJECT_ID</key>
+	<string>ltuc-student</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ltuc-student.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1072217117210:ios:707525dc63a613004a77a3</string>
+</dict>
+</plist>

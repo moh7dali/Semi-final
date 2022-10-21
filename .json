@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1072217117210",
+    "project_id": "ltuc-student",
+    "storage_bucket": "ltuc-student.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072217117210:android:85dc5675b7ff27f44a77a3",
+        "android_client_info": {
+          "package_name": "com.example.citycafe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072217117210-kd3vgqfhj0ufck6p3su3qnfnjrt2lbsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4PcqxL0EUuQSFPbr86rP2RpitVMxXX1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072217117210-kd3vgqfhj0ufck6p3su3qnfnjrt2lbsl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072217117210-fr5oh9gg8smf9statn04htgftjcj3ft4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.citycafeApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
